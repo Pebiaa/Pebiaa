@@ -1,6 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Pebiaa! 👋<br><br>## 👨‍💻 About Me<br>- **High School Vocational Graduate (SMK)**<br>- **Bio:** IT Enthusiast<br><br>## 🛠️ Technical Skills<br>- Computer installation & troubleshooting<br>- Basic Mikrotik networking<br>- Microsoft Office suite<br><br>## 🎮 Hobbies<br>- Gaming<br><br>## 🌐 Connect with Me<br>- [LinkedIn](https://id.linkedin.com/in/rescy-febrianda-913ba416a)<br><br><!--<br>If you have a favorite quote, fun fact, or personal motto, let me know and I’ll add it here!<br>--><br><br>---<br><br>Thanks for stopping by my profile!
-
+# Hi there, I'm Pebiaa! 👋<br><br>## 👨‍💻 About Me<br>- **High School Vocational Graduate (SMK)**<br>- **Bio:** IT Enthusiast<br><br>## 🛠️ Technical Skills<br>- Computer installation & troubleshooting<br>- Basic Mikrotik networking<br>- Microsoft Office suite<br><br>## 🎮 Hobbies<br>- Gaming<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rescyfebrianda1337) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rscyfbrnd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rescy-febrianda-913ba416a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rescyfebrianda) 
